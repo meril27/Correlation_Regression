@@ -1,18 +1,19 @@
 # Correlation and regression for data analysis
 
-NAME: MERIL GOLDLINA A
+DEVELOPED BY : MERIL GOLDLINA A
 
-REG.NO: 212224040189
+REGISTER NUMBER : 212224040189
 
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
+
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
 
 # Software required :  
 
-Python
+Python.
 
 # Theory :
 
