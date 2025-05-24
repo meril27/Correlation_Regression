@@ -1,6 +1,6 @@
-DEVELOPED BY : MERIL GOLDLINA A
+Developed by : MERIL GOLDLINA A
 
-REGISTER NUMBER : 212224040189
+Register number : 212224040189
 
 
 # Correlation and regression for data analysis
